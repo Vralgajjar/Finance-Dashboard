@@ -7,13 +7,9 @@ A clean, interactive finance dashboard built with **vanilla HTML, CSS, and JavaS
 ## Quick Start
 
 ```bash
-# Option 1 — Open directly
+ — Open directly
 open index.html
 
-# Option 2 — Serve locally (avoids any CORS issues)
-npx serve .
-# or
-python3 -m http.server 8080
 ```
 
 No npm install, no bundler, no environment setup required.
